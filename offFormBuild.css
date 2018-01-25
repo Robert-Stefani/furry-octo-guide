@@ -1,8 +1,9 @@
 img {
-	width: 1%;
+	width: 2%;
 	height: auto;
 }
 
 .positionSelect {
 	-webkit-appearance: none;
+	font-size: 150%;
 }
